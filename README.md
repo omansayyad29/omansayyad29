@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oman Sayyad</h1>
-<h3 align="center">Full Stack Developer (MERN & MEAN) | Data Engineer | Cloud Enthusiast</h3>
+<h3 align="center">Full Stack Developer (MERN & MEAN) | Cloud Enthusiast</h3>
 
 - 🌱 I’m currently exploring **Redis, AWS, and Azure**
 
