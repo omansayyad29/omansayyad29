@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is <strong>Oman Sayyad</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> from Pune, Maharashtra, India 🇮🇳
+  My name is <strong>Oman Sayyad</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> from Pune India
 </p>
 
 ---
