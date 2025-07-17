@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Oman Sayyad and I'm a Web Developer, from Pune Maharashtra India</p>
 
 ###
 
