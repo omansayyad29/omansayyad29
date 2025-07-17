@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is <strong>Oman Sayyad</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> from Pune 🇮🇳
+  My name is <strong>Oman Sayyad</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> from Pune, Maharashtra, India 🇮🇳
 </p>
 
 ---
@@ -20,7 +20,7 @@
 <h2 align="left">🧠 Tech Stack</h2>
 
 <p align="left">
-I love building applications using the <strong>MERN stack</strong> (MongoDB, Express, React/Next.js, Node.js) with TypeScript. I also have working knowledge of Python and Java for backend tasks, scripting, and problem-solving.
+I specialize in building full-stack applications using the <strong>MERN stack</strong> (MongoDB, Express, React/Next.js, Node.js) and <strong>Angular</strong> for enterprise-level frontend solutions. I also use <strong>TypeScript</strong> across projects. Additionally, I write scripts and solve problems in <strong>Python</strong> and <strong>Java</strong>.
 </p>
 
 ---
@@ -36,7 +36,11 @@ I love building applications using the <strong>MERN stack</strong> (MongoDB, Exp
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />  
   <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />  
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />  
   <img width="12" />  
