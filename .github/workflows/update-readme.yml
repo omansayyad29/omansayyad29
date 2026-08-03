@@ -9,6 +9,11 @@ on:
     branches:
       - main
 
+# Cancel any in-progress run for the same branch to avoid race conditions
+concurrency:
+  group: update-readme-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     permissions:
@@ -29,5 +34,8 @@ jobs:
           git config user.name "Oman Sayyad"
           git config user.email "omansayyad29@gmail.com"
           git add last_update.md
-          git diff --staged --quiet && echo "No changes" || git commit -m "chore: profile stats update $(date -u '+%Y-%m-%d')"
-          git push
+          git diff --staged --quiet && echo "No changes to commit" || (
+            git commit -m "chore: profile stats update $(date -u '+%Y-%m-%d')" &&
+            git pull --rebase origin main &&
+            git push
+          )
