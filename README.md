@@ -32,7 +32,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=tomkndn&label=Profile%20views&color=0e75b6&style=flat" alt="tomkndn" /> </p> -->
 
-```markdown
+
 ###
 
 <h1 align="center">Hi 👋, I'm Oman Sayyad</h1>
@@ -73,7 +73,7 @@
 </p>
 
 ###
-```
+
 
 <h3 align="left">💻 Languages :</h3>
 
