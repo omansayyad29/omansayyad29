@@ -178,12 +178,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omansayyad29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omansayyad29&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
-</div>
 
-###
 
 <img src="https://raw.githubusercontent.com/omansayyad29/omansayyad29/output/snake.svg" alt="Snake animation" />
 
