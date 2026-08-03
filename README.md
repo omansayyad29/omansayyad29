@@ -1,7 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+```markdown
+<h1 align="left">Hi 👋 I'm Oman Sayyad</h1>
 
 <p align="left">
-  My name is <strong>Oman Sayyad</strong> and I'm a passionate <strong>Full Stack Web Developer</strong> from Pune India
+🚀 <strong>AI Product Engineer</strong> passionate about building intelligent, scalable, and cloud-native products with modern AI and full-stack technologies.
 </p>
 
 ---
@@ -9,54 +10,66 @@
 <h2 align="left">💡 About Me</h2>
 
 <p align="left">
-✨ Building real-world products with clean, scalable code <br>
-📚 Currently sharpening my skills in system design and DevOps <br>
-🎯 Goal: To work on impactful products and grow as a full-stack architect <br>
-🎲 Fun fact: I can debug faster with coffee ☕
+🤖 Building AI-powered products using <strong>LLMs, Agentic AI, and RAG</strong><br>
+⚡ Developing scalable full-stack applications with <strong>Next.js, React, TypeScript, and Node.js</strong><br>
+☁️ Designing cloud-native architectures using <strong>AWS, Serverless, and SST</strong><br>
+🧠 Learning System Design, Distributed Systems, and AI Engineering<br>
+🎯 Goal: Build production-grade AI products that solve real-world problems
 </p>
 
 ---
 
-<h2 align="left">🧠 Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left">
-I specialize in building full-stack applications using the <strong>MERN stack</strong> (MongoDB, Express, React/Next.js, Node.js) and <strong>Angular</strong> for enterprise-level frontend solutions. I also use <strong>TypeScript</strong> across projects. Additionally, I write scripts and solve problems in <strong>Python</strong> and <strong>Java</strong>.
+
+<b>AI</b><br>
+LLMs • Agentic AI • RAG • Prompt Engineering • AI APIs
+
+<br><br>
+
+<b>Frontend</b><br>
+Next.js • React • TypeScript • JavaScript • Tailwind CSS
+
+<br><br>
+
+<b>Backend</b><br>
+Node.js • Express.js • REST APIs
+
+<br><br>
+
+<b>Cloud</b><br>
+AWS • Lambda • EC2 • API Gateway • DynamoDB • S3 • CloudFront • Route 53 • IAM • Serverless • SST
+
+<br><br>
+
+<b>Databases</b><br>
+DynamoDB • MongoDB • PostgreSQL
+
+<br><br>
+
+<b>Tools</b><br>
+Git • GitHub • Docker • Jest • Storybook
 </p>
 
 ---
 
-<h2 align="left">🚀 I Code With</h2>
+<h2 align="left">🚀 I Build</h2>
 
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-</div>
+- 🤖 AI-powered SaaS applications
+- 🧠 LLM integrations & AI assistants
+- ⚙️ Serverless cloud applications
+- 📈 Scalable full-stack products
+- ☁️ AWS-native architectures
+- 🔗 REST APIs & backend services
 
 ---
 
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="left">📫 Connect With Me</h2>
 
 <p align="left">
-  I'm always open to discussing web development, learning opportunities, or just geeking out over clean code. Feel free to reach out!
+💼 Open to collaborating on AI products, cloud-native applications, and innovative engineering challenges.
+
+Let's build something impactful together! 🚀
 </p>
+```
