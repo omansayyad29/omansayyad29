@@ -1,155 +1,192 @@
 <div align="center">
-
-# Oman Sayyad
-
-### AI Product Engineer · Full-Stack Developer · Serverless Architect
-
-*Designing and shipping intelligent, cloud-native products — from LLM-powered agents and RAG pipelines to production-grade serverless infrastructure.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omansayyad)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omansayyad29@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/omansayyad29)
-[![Profile Views](https://komarev.com/ghpvc/?username=omansayyad29&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/omansayyad29)
-
-<br/>
-
-> 🟢 **Open to senior roles** in AI Engineering, Full-Stack, or Cloud Architecture — remote or hybrid.
-
+  <img height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e474d53ovlb5aakv7fssm5ckbj4gq6zkwwx64sa19s8&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm an **AI Product Engineer** with a track record of taking ideas from 0 → production — building **LLM agents and RAG pipelines** in Python and shipping **Next.js / NestJS** products on **AWS serverless infrastructure**.
-
-I write code that is designed to scale, testable by default, and grounded in delivering measurable user value. I care deeply about system design, clean API contracts, and shipping fast without accumulating debt.
-
-**What I bring to a team:**
-- 🤖 End-to-end ownership of **LLM-powered agents**, **RAG pipelines**, and **agentic workflows** — from prompt engineering to production observability
-- 🐍 **Python** (FastAPI · LangChain · LlamaIndex) for AI services + **TypeScript** (Next.js · NestJS · Node.js) for full-stack products
-- ☁️ Deep hands-on with **AWS serverless** — Lambda · DynamoDB · S3 · API Gateway · CloudFront · Route 53 — provisioned with **SST** (IaC)
-- 🔁 Event-driven, real-time architecture — WebSockets, streaming LLM responses, async Lambda pipelines
-- 📐 Strong grasp of **System Design**, **Distributed Systems**, and **scalable data modelling** (single-table DynamoDB, relational, vector DBs)
-- 🚢 Shipping mindset: feature-flagged rollouts, multi-stage deployments, and zero-downtime migrations
-
----
-
-## 🚀 Featured Projects
-
-### 📚 BookShareNext — Production Full-Stack Platform
-
-> Book-sharing community platform with real-time club chats, granular RBAC, AI-powered discovery, and a fully serverless AWS backbone.
-
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)](https://aws.amazon.com/dynamodb)
-[![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
-[![SST](https://img.shields.io/badge/SST-E27152?style=flat-square&logo=serverless&logoColor=white)](https://sst.dev)
-
-| Area | Decision |
-|---|---|
-| Auth & RBAC | Super Admin / Admin / Member roles — enforced on API routes and UI layer |
-| Real-time Chat | WebSocket via AWS API Gateway + Lambda — isolated club chat from personal inbox |
-| Asset Pipeline | Pre-signed S3 uploads with CloudFront CDN delivery |
-| Deployment | Multi-stage (dev → staging → prod) serverless with SST IaC |
-| Data Layer | Single-table DynamoDB with GSI-based access patterns |
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omansayyad29/BookShareNext)
-
----
-
-### 🤖 Agentic AI Platform — *(Active Development)*
-
-> Multi-agent orchestration system with RAG pipelines, LLM tool-use, streaming output, and a production API layer.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
-[![SST](https://img.shields.io/badge/SST-E27152?style=flat-square&logo=serverless&logoColor=white)](https://sst.dev)
-
-| Area | Decision |
-|---|---|
-| Agent Layer | Multi-step reasoning with dynamic tool routing, memory, and fallback handling |
-| RAG Pipeline | Semantic vector search with context-aware chunking and re-ranking |
-| API Services | FastAPI microservice for LLM inference; NestJS gateway for orchestration |
-| Output | Streaming responses with structured output parsing via function calling |
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omansayyad29)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-
-### AI / LLM & Data
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
-[![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white)](#)
-[![AI Agents](https://img.shields.io/badge/AI%20Agents-6929C4?style=flat-square&logo=probot&logoColor=white)](#)
-[![Vector Search](https://img.shields.io/badge/Vector%20Search-00A3E0?style=flat-square&logo=elastic&logoColor=white)](#)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFC107?style=flat-square&logo=python&logoColor=black)](https://www.llamaindex.ai)
-
-### Frontend Frameworks & State
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-
-### Backend, APIs & Databases
-[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
-
-### Cloud, DevOps & Infrastructure
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
-
-### Developer Tools & Environments
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-
----
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omansayyad29&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omansayyad29&layout=compact&theme=github_dark&langs_count=7&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omansayyad29&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/omansayyad29/omansayyad29/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
+  <a href="https://www.linkedin.com/in/omansayyad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:omansayyad29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=omansayyad29&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views" />
 </div>
 
----
+###
+
+<h1 align="center">Hi 👋, I'm Oman Sayyad</h1>
+<h3 align="center">AI Product Engineer · Full-Stack Developer · Serverless Architect</h3>
+
+###
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary><br>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omansayyad29&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
+</details>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+
+🚀 AI Product Engineer passionate about building intelligent, scalable, and cloud-native products.<br><br>
+
+🤖 Building AI-powered applications with <strong>LLMs, Agentic AI, and RAG pipelines</strong> — from prompt engineering to production observability.<br><br>
+
+🐍 Writing <strong>Python</strong> (FastAPI · LangChain · LlamaIndex) for AI/ML services and <strong>TypeScript</strong> (Next.js · NestJS · Node.js) for full-stack products.<br><br>
+
+☁️ Architecting on <strong>AWS Serverless</strong> — Lambda · DynamoDB · S3 · API Gateway · CloudFront · Route 53 — provisioned with <strong>SST</strong> (IaC).<br><br>
+
+🧠 Currently deepening expertise in <strong>System Design, Distributed Systems, and AI Engineering at scale</strong>.<br><br>
+
+🤝 Open to collaborating on AI-powered products, full-stack applications, and cloud-native solutions.
+</p>
+
+###
+
+<h3 align="left">💻 Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+</div>
+
+###
+
+<h3 align="left">🤖 AI / LLM & Data</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="30" alt="langchain" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30" alt="openai" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white" height="30" alt="rag" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6929C4?style=flat-square&logo=probot&logoColor=white" height="30" alt="ai agents" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Vector%20Search-00A3E0?style=flat-square&logo=elastic&logoColor=white" height="30" alt="vector search" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FFC107?style=flat-square&logo=python&logoColor=black" height="30" alt="llamaindex" />
+</div>
+
+###
+
+<h3 align="left">🖥️ Frontend Frameworks & State</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+</div>
+
+###
+
+<h3 align="left">⚙️ Backend, APIs & Databases</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase" />
+</div>
+
+###
+
+<h3 align="left">☁️ Cloud, DevOps & Infrastructure</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare" />
+</div>
+
+###
+
+<h3 align="left">🛠 Developer Tools & Environments</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora" />
+</div>
+
+<br>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
 
 <div align="center">
-
-*"Make it work, make it right, make it fast."* — Kent Beck
-
+  <img src="https://github-readme-stats.vercel.app/api?username=omansayyad29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omansayyad29&layout=compact&theme=dracula&langs_count=7&hide_border=true" height="150" alt="languages graph" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omansayyad29&theme=dracula&hide_border=true" height="150" alt="streak stats" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="220" alt="coding animation" />
+</div>
+
+###
