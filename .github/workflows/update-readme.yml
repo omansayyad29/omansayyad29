@@ -5,6 +5,9 @@ on:
     # Every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
@@ -13,14 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Update README timestamp
+      - name: Update timestamp file
         run: |
-          TODAY=$(date +"%Y-%m-%d %H:%M:%S")
-          echo "## Last updated: $TODAY" > last_update.md
+          DATE=$(date -u "+%Y-%m-%d")
+          TIME=$(date -u "+%H:%M UTC")
+          printf "Last updated: %s at %s\n" "$DATE" "$TIME" > last_update.md
+
+      - name: Commit and push
+        run: |
           git config user.name "Oman Sayyad"
           git config user.email "omansayyad29@gmail.com"
           git add last_update.md
-          git commit -m "Update last updated timestamp: $TODAY" || echo "No changes"
+          git diff --staged --quiet && echo "No changes" || git commit -m "chore: profile stats update $(date -u '+%Y-%m-%d')"
           git push
