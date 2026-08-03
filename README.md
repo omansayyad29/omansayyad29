@@ -65,10 +65,6 @@
 
 🧠 Currently learning <strong>System Design, Distributed Systems, and AI Engineering</strong>.<br><br>
 
-👨‍💻 Check out my projects: <a href="YOUR_PORTFOLIO_URL">Portfolio</a><br><br>
-
-📫 Reach me at: <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a><br><br>
-
 🤝 Open to collaborating on AI-powered products, full-stack applications, and cloud-native solutions.
 </p>
 
