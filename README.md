@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="left">Hi 👋 I'm Oman Sayyad</h1>
 
 <p align="left">
@@ -72,4 +72,3 @@ Git • GitHub • Docker • Jest • Storybook
 
 Let's build something impactful together! 🚀
 </p>
-```
