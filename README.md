@@ -34,7 +34,7 @@ Next.js • React • TypeScript • JavaScript • Tailwind CSS
 <br><br>
 
 <b>Backend</b><br>
-Node.js • Express.js • REST APIs
+Node.js • Express.js • FastAPI • REST APIs
 
 <br><br>
 
