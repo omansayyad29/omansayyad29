@@ -168,25 +168,25 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omansayyad29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omansayyad29&layout=compact&theme=dracula&langs_count=7&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omansayyad29&theme=dracula&hide_border=true" height="150" alt="streak stats" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrathod0015&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrathod0015&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph"  />
+</div> -->
 
 ###
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="220" alt="coding animation" />
-</div>
+<img src="https://raw.githubusercontent.com/shubhamrathod0015/shubhamrathod0015/output/snake.svg" alt="Snake animation" />
 
 ###
